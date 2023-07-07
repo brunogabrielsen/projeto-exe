@@ -1,0 +1,42 @@
+header{
+    background-color:#87ceeb;
+    display: flex;
+    height: 30px;
+    color: mediumblue ;
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+     }
+  
+header p{
+   position: fixed;
+   right: 0%;
+   font-size: 15px;
+   color: darkblue;
+   margin-right: 10px;
+}
+nav  {
+   position: fixed;
+   background-color: aquamarine; 
+   height: 100%;
+   display: flex;
+   
+}
+ul li{
+    margin-top: 60px;
+    font-size: 10px;
+    display: flex;
+    max-width: 500px;
+    flex-direction:column;
+
+
+    
+}
+
+
+    
+    
+
+    
+
+
